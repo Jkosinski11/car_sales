@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/car_sales/static/css/main.f855e6bc.css",
-    "main.js": "/car_sales/static/js/main.8773e85c.js",
+    "main.js": "/car_sales/static/js/main.7a378254.js",
     "static/js/453.f6fade9a.chunk.js": "/car_sales/static/js/453.f6fade9a.chunk.js",
+    "static/media/ford_bronco.jpeg": "/car_sales/static/media/ford_bronco.5d9ca32fa0cd5e565341.jpeg",
     "index.html": "/car_sales/index.html",
     "main.f855e6bc.css.map": "/car_sales/static/css/main.f855e6bc.css.map",
-    "main.8773e85c.js.map": "/car_sales/static/js/main.8773e85c.js.map",
+    "main.7a378254.js.map": "/car_sales/static/js/main.7a378254.js.map",
     "453.f6fade9a.chunk.js.map": "/car_sales/static/js/453.f6fade9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8773e85c.js"
+    "static/js/main.7a378254.js"
   ]
 }

@@ -1,6 +1,17 @@
 import './App.css';
+import { useEffect } from 'react';
 
 function App() {
+  
+    useEffect(() => {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'product_view',
+        product_name: 'Ford Bronco',
+        product_price: '20500',
+        currency: 'USD',
+      });
+    }, []); //Fires based on page load and static products means that update should not happen
   return (
         
     <div className="App">
